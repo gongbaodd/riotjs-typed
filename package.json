@@ -1,0 +1,31 @@
+{
+  "name": "riot-typed",
+  "version": "1.0.0",
+  "description": "a simple wrapper of riotjs+riotcontrol，can be used in both browser and ssr",
+  "main": "dist/index.js",
+  "types": "./tags/index.d.ts",
+  "scripts": {
+    "test": "echo \"go to test folder and run webpack\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gongbaodd/riot-typed.git"
+  },
+  "keywords": [
+    "riotjs",
+    "typescript",
+    "ssr",
+    "riotcontrol"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gongbaodd/riot-typed/issues"
+  },
+  "homepage": "https://github.com/gongbaodd/riot-typed#readme",
+  "dependencies": {
+    "riot": "^3.5.1",
+    "riotcontrol": "0.0.3"
+  }
+}
