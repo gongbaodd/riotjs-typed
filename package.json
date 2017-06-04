@@ -1,5 +1,5 @@
 {
-  "name": "riot-typed",
+  "name": "riotjs-typed",
   "version": "1.0.0",
   "description": "a simple wrapper of riotjs+riotcontrol，can be used in both browser and ssr",
   "main": "./lib/index.js",
