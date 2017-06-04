@@ -2,7 +2,7 @@
   "name": "riot-typed",
   "version": "1.0.0",
   "description": "a simple wrapper of riotjs+riotcontrol，can be used in both browser and ssr",
-  "main": "dist/index.js",
+  "main": "./lib/index.js",
   "types": "./tags/index.d.ts",
   "scripts": {
     "test": "echo \"go to test folder and run webpack\" && exit 1",
